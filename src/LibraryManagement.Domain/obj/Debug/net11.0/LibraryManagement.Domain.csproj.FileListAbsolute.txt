@@ -1,0 +1,11 @@
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/obj/Debug/net11.0/LibraryManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/obj/Debug/net11.0/LibraryManagement.Domain.AssemblyInfoInputs.cache
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/obj/Debug/net11.0/LibraryManagement.Domain.AssemblyInfo.cs
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/obj/Debug/net11.0/LibraryManagement.Domain.csproj.CoreCompileInputs.cache
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/bin/Debug/net11.0/LibraryManagement.Domain.deps.json
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/bin/Debug/net11.0/LibraryManagement.Domain.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/bin/Debug/net11.0/LibraryManagement.Domain.pdb
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/obj/Debug/net11.0/LibraryManagement.Domain.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/obj/Debug/net11.0/refint/LibraryManagement.Domain.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/obj/Debug/net11.0/LibraryManagement.Domain.pdb
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Domain/obj/Debug/net11.0/ref/LibraryManagement.Domain.dll

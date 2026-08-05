@@ -1,0 +1,15 @@
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/LibraryManagement.Application.csproj.AssemblyReference.cache
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/LibraryManagement.Application.GeneratedMSBuildEditorConfig.editorconfig
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/LibraryManagement.Application.AssemblyInfoInputs.cache
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/LibraryManagement.Application.AssemblyInfo.cs
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/LibraryManagement.Application.csproj.CoreCompileInputs.cache
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/bin/Debug/net11.0/LibraryManagement.Application.deps.json
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/bin/Debug/net11.0/LibraryManagement.Application.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/bin/Debug/net11.0/LibraryManagement.Application.pdb
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/bin/Debug/net11.0/LibraryManagement.Domain.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/bin/Debug/net11.0/LibraryManagement.Domain.pdb
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/LibraryM.C4F4E017.Up2Date
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/LibraryManagement.Application.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/refint/LibraryManagement.Application.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/LibraryManagement.Application.pdb
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Application/obj/Debug/net11.0/ref/LibraryManagement.Application.dll
