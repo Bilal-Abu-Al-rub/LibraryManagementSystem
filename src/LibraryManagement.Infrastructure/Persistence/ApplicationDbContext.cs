@@ -64,6 +64,8 @@ namespace LibraryManagement.Infrastructure.Persistence
                 .HasOne(ba => ba.Author)
                 .WithMany(a => a.BookAuthors)
                 .HasForeignKey(ba => ba.AuthorId);
+
+                
         }
     }
 }

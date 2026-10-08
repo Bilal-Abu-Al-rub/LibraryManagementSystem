@@ -168,3 +168,4 @@
 /Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.API/bin/Debug/net11.0/tr/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.API/bin/Debug/net11.0/zh-Hans/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
 /Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.API/bin/Debug/net11.0/zh-Hant/Microsoft.CodeAnalysis.Workspaces.MSBuild.resources.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.API/obj/Debug/net11.0/LibraryManagement.API.sourcelink.json

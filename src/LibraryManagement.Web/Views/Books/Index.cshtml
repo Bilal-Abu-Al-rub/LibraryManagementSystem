@@ -1,0 +1,37 @@
+@model IEnumerable<LibraryManagement.Domain.Entities.Book>
+
+<h2>قائمة الكتب</h2>
+
+<p>
+    <a asp-action="Create" class="btn btn-primary">إضافة كتاب جديد</a>
+</p>
+
+<table class="table table-bordered table-striped">
+    <thead>
+        <tr>
+            <th>العنوان</th>
+            <th>الرقم المعياري (ISBN)</th>
+            <th>سنة النشر</th>
+            <th>النسخ الكلية</th>
+            <th>النسخ المتاحة</th>
+            <th>الإجراءات</th>
+        </tr>
+    </thead>
+    <tbody>
+@foreach (var item in Model) {
+        <tr>
+            <td>@item.Title</td>
+            <td>@item.ISBN</td>
+            <td>@item.PublishedYear</td>
+            <td>@item.TotalCopies</td>
+            <td>@item.AvailableCopies</td>
+            <td>
+                <a asp-action="Edit" asp-route-id="@item.Id" class="btn btn-sm btn-warning">تعديل</a> |
+                <form asp-action="Delete" asp-route-id="@item.Id" method="post" style="display:inline;">
+                    <button type="submit" class="btn btn-sm btn-danger" onclick="return confirm('هل أنت تأكد من الحذف؟')">حذف</button>
+                </form>
+            </td>
+        </tr>
+}
+    </tbody>
+</table>

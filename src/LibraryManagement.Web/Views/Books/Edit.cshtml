@@ -1,0 +1,35 @@
+@model LibraryManagement.Domain.Entities.Book
+
+<h2>تعديل بيانات الكتاب</h2>
+
+<form asp-action="Edit" method="post">
+    <input type="hidden" asp-for="Id" />
+
+    <div class="mb-3">
+        <label class="form-label">عنوان الكتاب</label>
+        <input asp-for="Title" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">الرقم المعياري (ISBN)</label>
+        <input asp-for="ISBN" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">سنة النشر</label>
+        <input asp-for="PublishedYear" type="number" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">إجمالي النسخ</label>
+        <input asp-for="TotalCopies" type="number" class="form-control" required />
+    </div>
+
+    <div class="mb-3">
+        <label class="form-label">النسخ المتاحة</label>
+        <input asp-for="AvailableCopies" type="number" class="form-control" required />
+    </div>
+
+    <button type="submit" class="btn btn-primary">تحديث</button>
+    <a asp-action="Index" class="btn btn-secondary">إلغاء</a>
+</form>

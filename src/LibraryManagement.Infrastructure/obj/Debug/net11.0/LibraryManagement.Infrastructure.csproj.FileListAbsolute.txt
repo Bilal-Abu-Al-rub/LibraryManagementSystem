@@ -17,3 +17,4 @@
 /Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Infrastructure/obj/Debug/net11.0/LibraryManagement.Infrastructure.pdb
 /Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Infrastructure/obj/Debug/net11.0/LibraryManagement.Infrastructure.genruntimeconfig.cache
 /Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Infrastructure/obj/Debug/net11.0/ref/LibraryManagement.Infrastructure.dll
+/Users/belalabual-rub/LibraryManagementSystem/src/LibraryManagement.Infrastructure/obj/Debug/net11.0/LibraryManagement.Infrastructure.sourcelink.json
